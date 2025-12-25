@@ -3,15 +3,15 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-const char* device_name = "vuhuong";
-const char* ssid = "vhh";
-const char* password = "vhvhvhvh";
+const char* device_name = "quangkhanh";
+const char* ssid = "qkhanh";
+const char* password = "ddqkhanh";
 
-const char* mqtt_server = "172.20.10.2";
+const char* mqtt_server = "172.20.10.5";
 const int   mqtt_port   = 1883;
 
-const char* mqtt_user = "vungochuong";
-const char* mqtt_pass = "vuhuong2005";
+const char* mqtt_user = "quangkhanh";
+const char* mqtt_pass = "123456";
 
 const char* mqtt_topic = "iot/lab1/10123182/sensor";
 
