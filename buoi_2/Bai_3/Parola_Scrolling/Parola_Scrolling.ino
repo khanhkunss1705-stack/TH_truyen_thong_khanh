@@ -8,7 +8,7 @@
 
 MD_Parola parola = MD_Parola(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);
 
-String inputText = "Vu Huong Day";  // Dòng mặc định
+String inputText = "DQK";  // Dòng mặc định
 bool newMessage = false;
 
 void setup() {

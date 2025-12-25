@@ -8,8 +8,8 @@
 #include <coap-simple.h>
 
 /* ========== CONFIG ========== */
-const char* WIFI_SSID = "vh";
-const char* WIFI_PASS = "vhvhvhvh";
+const char* WIFI_SSID = "qkhanh";
+const char* WIFI_PASS = "000000000";
 
 /* CoAP Server (Receiver) */
 IPAddress coap_server_ip(172, 20, 10, 2);
